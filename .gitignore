@@ -1,20 +1,10 @@
-# Unreal Engine generated folders and per-user files
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
+Build/
 .vs/
-*.VC.db
-*.VC.opendb
 *.sln
 *.suo
-*.user
-*.userprefs
-*.pidb
-*.log
-
-# IDE and operating-system metadata
-.idea/
-.vscode/
-.DS_Store
-Thumbs.db
+*.VC.db
+*_BuiltData.uasset
